@@ -10,9 +10,9 @@ RollsRoyce_type(string)
 Model(string)
 Cost(number)
 
-<!-- [RollsRoyce](https://fwb27madhur.herokuapp.com/rollsRoyce)
+[RollsRoyce](https://fwb27madhur.herokuapp.com/rollsRoyce)
 
-[Addmods](https://fwb27madhur.herokuapp.com/addmods?rows=3&cols=4)
+[Addmods](https://fwb27madhur.herokuapp.com/addmods?rows=4&cols=5)
 
-[Selector](https://fwb27madhur.herokuapp.com/selector) -->
+[Selector](https://fwb27madhur.herokuapp.com/selector)
 
