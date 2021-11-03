@@ -2,5 +2,15 @@ extends layout
 
 block content
   h1= title
-  p  vinay madhur passionate about career in Data Science
-  button(type="button" class="btn btn-secondary")= 'Press Me'
+  p A paragraph tag
+  button(type='button',onclick='update()',class='btn btn-primary') Press Me
+  
+  div(id="target") text of Display 
+
+  script.
+    var client_count = 0;
+    function update(){
+      client_count +=1;
+      document.getElementById("target").innerHTML = "Value now " + client_count;
+    }
+
