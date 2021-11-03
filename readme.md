@@ -12,7 +12,7 @@ Cost(number)
 
 [RollsRoyce](https://fwb27madhur.herokuapp.com/rollsRoyce)
 
-[Addmods](https://fwb27madhur.herokuapp.com/addmods?rows=4&cols=5)
+[Addmods](https://fwb27madhur.herokuapp.com/addmods?rows=3&cols=4)
 
 [Selector](https://fwb27madhur.herokuapp.com/selector)
 
